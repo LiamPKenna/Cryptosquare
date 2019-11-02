@@ -30,4 +30,4 @@ _HTML, CSS, Bootstrap, jQuery, JavaScript_
 
 *This software is available under the MIT License*
 
-Copyright (c) 2016 **_Michael Wells and Liam Kenna_**
+Copyright (c) 2019 **_Michael Wells and Liam Kenna_**
