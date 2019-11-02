@@ -109,6 +109,7 @@ $(document).ready(function() {
     $("#result").fadeIn();
     $("#heads").text(heads);
     $("#tails").text(tails);
+    $(".bg-success").fadeIn();
   });
 
 });
